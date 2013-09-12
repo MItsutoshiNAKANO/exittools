@@ -1,2 +1,2 @@
 #
-SUBDIRS= scripts man
+SUBDIRS= scripts
